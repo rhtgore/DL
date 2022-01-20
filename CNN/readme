@@ -1,0 +1,5 @@
+CNN
+conv2d
+maxpooling
+flatten
+dense
